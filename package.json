@@ -12,5 +12,13 @@
     "lodash": "^4.17.5"
   },
   "devDependencies": {},
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krabii/alimentacion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Krabii/alimentacion/issues"
+  },
+  "homepage": "https://github.com/Krabii/alimentacion#readme",
+  "description": "A food crawler"
 }
