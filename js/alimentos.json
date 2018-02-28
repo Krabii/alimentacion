@@ -1,0 +1,14 @@
+{
+  "data": [
+  	{
+  		"name": "leche",
+  		"properties": ["bifidus","vitamina D"],
+  		"grade": [5,2]
+  	},
+  	{
+  		"name": "yogur",
+  		"properties" : ["bifidus","vitamina E"],
+  		"grade" : [4,2]
+  	}
+  ]
+}
